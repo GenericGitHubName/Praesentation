@@ -21,11 +21,11 @@ P2 nach doppeltem Return.
 
 [Dies ist ein Link](http://www.github.com)
 
-Some 'variable' code.
+Some `variable` code.
 
-'''html
+```html
 <p>A paragraph example</p>
-'''
-'''javascript
+```
+```javascript
 let num = Math.random();
-'''
+```

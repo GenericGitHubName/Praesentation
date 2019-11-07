@@ -18,6 +18,7 @@ P2 nach doppeltem Return.
 
 **Fett**
 *Kursiv*
+~~gelöscht~~
 
 [Dies ist ein Link](http://www.github.com)
 

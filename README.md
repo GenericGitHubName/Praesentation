@@ -29,3 +29,7 @@ Some `variable` code.
 ```javascript
 let num = Math.random();
 ```
+
+| Bezeichnung | Name | Nr |
+| --- | --- | --- |
+| Tabellen | von GitHub | unterstützt |

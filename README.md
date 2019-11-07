@@ -20,3 +20,12 @@ P2 nach doppeltem Return.
 *Kursiv*
 
 [Dies ist ein Link](http://www.github.com)
+
+Some 'variable' code.
+
+'''html
+<p>A paragraph example</p>
+'''
+'''javascript
+let num = Math.random();
+'''

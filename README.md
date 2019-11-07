@@ -19,4 +19,4 @@ P2 nach doppeltem Return.
 **Fett**
 *Kursiv*
 
-[Dies ist ein Link] (http://www.github.com)
+[Dies ist ein Link](http://www.github.com)
